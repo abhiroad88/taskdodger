@@ -1,0 +1,42 @@
+
+
+h1 {
+	font-family:'Visuelt', sans-serif;
+	font-size: 44px;
+	margin-left: 25px;
+	color: #4e4e55;
+}
+
+button {
+	margin-left: 25px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 6px;
+	font-family: 'Visuelt', sans-serif;
+	font-size: 28px;
+	color: #4e4e55;
+	text-decoration: none;
+	cursor: pointer;
+	background-color: #ddd;
+	border: 3px solid #555;
+	height: 60px;
+	width: 200px;
+}
+
+button:hover{
+	opacity: .75;
+}
+
+a{
+	color: #000;
+}
+
+#excuses{
+	position: relative;
+	top: 30px;
+	left: 25px;
+	font-family: 'Visuelt', sans-serif;
+	font-size: 44px;
+	color: #999;
+}
+
